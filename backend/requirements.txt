@@ -1,1 +1,13 @@
 
+flask==3.0.3
+flask-cors==4.0.0
+torch==2.2.2
+sentence-transformers==2.7.0
+transformers==4.40.1
+unstructured[pdf]==0.13.3
+unstructured-inference==0.7.27
+pdfminer.six==20231228
+numpy<2.0.0
+gunicorn==22.0.0
+accelerate==0.29.3
+pypdf
